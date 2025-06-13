@@ -31,7 +31,7 @@ Talks schedule:
  10:15-10:55 | Ph.d. talk tbd            |      -      
  10:55-11:35 | DD talk                   |      -      
  11:35-12:45 | (Pizza delivery?)         |      -      
- 12:45-1:25  | MV talk                   |      -      
+ 12:45-1:25  | MV talk?                   |      -      
  1:25-2:05   |                   -       |      -      
  2:05-2:25   | Break                     |      -      
  2:25-3:05   | MH talk                   |     -       
