@@ -7,11 +7,9 @@
 
 # Schedule
 
-### Day 1. (Friday Jul 18, 2025)
+#### Day 1. Participants Arrive (Friday, July 18)
 
-### Day 2. (Saturday Jul 19, 2025)
-
-Talks
+#### Day 2. Talks (Saturday Jul 19, 2025)
 
 | time        | event                     | description |
 |:------------|:--------------------------|:------------|
@@ -27,12 +25,11 @@ Talks
 | 2:25-3:05   | Phd                       |     -       |
 | 3:10-4:10   | Two students or one other |       -     |
 
+Grad student talks are 30 minutes (25 min talk + 5 min question)
+Phd holder talks are 40 minutes (35 min talk + 5 min questions)
 
-```
-Grad student talk: 30 minutes (e.g., 25 talk + 5 min question)
-Phd holder talk: 40 minutes
-```
-
-### Day 3. (Sunday Jul 20, 2025)
+#### Day 3. Research discussions (Sunday Jul 20, 2025)
 
 Research discussions
+
+Participants leave
