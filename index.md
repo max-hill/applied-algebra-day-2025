@@ -6,10 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Main Page
+title: Main Conference Page
 ---
-
-# Information
 
 - **Date:** July 18-20, 2025
 - **Location:** Van Vleck Hall, University of Wisconsin-Madison
