@@ -1,6 +1,6 @@
-
-# July 18-20, 2025
-
+---
+layout: default
+---
 
 # Information
 
@@ -10,9 +10,9 @@
 
 # Schedule
 
-## Day 1. (Friday Jul 18, 2025)
+### Day 1. (Friday Jul 18, 2025)
 
-## Day 2. (Saturday Jul 19, 2025)
+### Day 2. (Saturday Jul 19, 2025)
 
 Talks
 | time        | event                     | description |
@@ -49,7 +49,7 @@ Grad student talk: 30 minutes (e.g., 25 talk + 5 min question)
 Phd holder talk: 40 minutes
 ```
 
-## Day 3. (Sunday Jul 20, 2025)
+### Day 3. (Sunday Jul 20, 2025)
 
 Research discussions
 
