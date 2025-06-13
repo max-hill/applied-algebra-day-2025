@@ -2,7 +2,7 @@
 
 - **Location:** Van Vleck Hall @ UW Madison
 - **Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
-- [**Talk information and abstracts**](./additional-information.md).
+- [**Titles and Abstracts**](./titles-and-abstracts.md).
 
 
 # Schedule
