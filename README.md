@@ -1,11 +1,9 @@
-theme: minima
-
-
-`theme: jekyll-theme-slate`
+theme: jekyll-theme-slate
+title: Applied Alg Day
 
 
 
-# applied-algebra-day-2025
+# Applied Algebra Day 2025
 Applied Algebra Day 2025 at UW Madison
 
 Dates: July 18-20, 2025
