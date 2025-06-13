@@ -26,7 +26,7 @@ Talks schedule:
  time        | event                     | description 
 -------------|---------------------------|-------------
  9:00-9:30   | BF talk                   | topic       
- 9:30-10:00  | AE talk                   |             
+ 9:30-10:00  | ?? talk                   |             
  10:00-10:15 | Break                     |      -      
  10:15-10:55 | Ph.d. talk tbd            |      -      
  10:55-11:35 | DD talk                   |      -      
