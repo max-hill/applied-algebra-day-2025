@@ -6,7 +6,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Main Conference Page
+title: Conference Information
 ---
 
 - **Date:** July 18-20, 2025
@@ -14,7 +14,7 @@ title: Main Conference Page
 - **Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
 - [**Titles and Abstracts**](./titles-and-abstracts.md).
 
-## Conference Schedule
+# Conference Schedule
 
 ### Day 1. Participants Arrive (Friday, July 18)
 
