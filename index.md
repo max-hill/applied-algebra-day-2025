@@ -37,9 +37,9 @@ Talks schedule:
  2:25-3:05   | Phd                       |     -       
  3:10-4:10   | Two students or one other |       -     
 
-For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
-Grad student talks are 30 minutes (25 min talk + 5 min question)
-Phd holder talks are 40 minutes (35 min talk + 5 min questions)
+- For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
+- Grad student talks are 30 minutes (25 min talk + 5 min question)
+- Phd holder talks are 40 minutes (35 min talk + 5 min questions)
 
 ## Day 3. (Sunday, July 20)
 
