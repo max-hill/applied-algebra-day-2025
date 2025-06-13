@@ -9,7 +9,7 @@ layout: home
 title: Information
 ---
 
-- **Date:** July 18-20, 2025
+- **Dates:** July 18-20, 2025
 - **Location:** Van Vleck Hall, University of Wisconsin-Madison
 - **Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
 
