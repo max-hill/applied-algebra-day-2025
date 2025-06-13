@@ -1,12 +1,15 @@
-July 18-20, 2025
+---
+layout: default
+---
 
-# Location
+# July 18-20, 2025
 
-University of Wisconsin-Madison
 
-# Organizers
+# Information
 
-Jose Israel Rodriguez (UW Madison) and Max Hill (UH Manoa)
+**Organizers:** Jose Israel Rodriguez (UW Madison) and Max Hill (UH Manoa)
+
+**Location:** University of Wisconsin-Madison
 
 # Schedule
 
