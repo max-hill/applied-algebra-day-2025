@@ -1,6 +1,7 @@
 theme: minima
 
-<!-- theme: jekyll-theme-slate -->
+
+`theme: jekyll-theme-slate`
 
 
 
