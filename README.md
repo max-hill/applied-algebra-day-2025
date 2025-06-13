@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Information
 
 **Organizers:** Jose Israel Rodriguez (UW Madison) and Max Hill (UH Manoa)
