@@ -1,6 +1,3 @@
----
-layout: default
----
 
 # July 18-20, 2025
 
@@ -63,7 +60,6 @@ Phd holder talk: 40 minutes
 Research discussions
 
 
-![test-image](https://github.githubassets.com/images/test.jpeg)
 
 
 
