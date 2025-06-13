@@ -12,7 +12,6 @@ title: Conference Information
 - **Date:** July 18-20, 2025
 - **Location:** Van Vleck Hall, University of Wisconsin-Madison
 - **Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
-- [**Titles and Abstracts**](./titles-and-abstracts.md).
 
 # Conference Schedule
 
@@ -20,6 +19,7 @@ title: Conference Information
 
 ### Day 2. Talks (Saturday Jul 19, 2025)
 
+  
  time        | event                     | description 
 -------------|---------------------------|-------------
  9:00-9:30   | student talk              | topic       
@@ -33,6 +33,9 @@ title: Conference Information
  2:05-2:25   | Break                     |      -      
  2:25-3:05   | Phd                       |     -       
  3:10-4:10   | Two students or one other |       -     
+
+
+For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
 
 Grad student talks are 30 minutes (25 min talk + 5 min question)
 Phd holder talks are 40 minutes (35 min talk + 5 min questions)
