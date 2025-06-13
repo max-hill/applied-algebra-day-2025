@@ -4,8 +4,9 @@ July 18-20, 2025
 
 University of Wisconsin-Madison
 
+# Organizers
 
-[Link to another page](./additional-information.html).
+Jose Israel Rodriguez (UW Madison) and Max Hill (UH Manoa)
 
 # Schedule
 
@@ -53,6 +54,9 @@ Phd holder talk: 40 minutes
 Research discussions
 
 
-![test-image](https://github.githubassets.com/images/test.png)
+![test-image](https://github.githubassets.com/images/test.jpeg)
 
 
+
+
+[Link to another page](./additional-information.html).
