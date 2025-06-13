@@ -1,8 +1,18 @@
 # Information
 
-**Organizers:** Jose Israel Rodriguez (UW Madison) and Max Hill (UH Manoa)
+
+This page is under construction
+![test-image](./images/test.jpeg)
+
+
+
+**Organizers:** ![Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and ![Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
+
 
 **Location:** University of Wisconsin-Madison
+
+[Link to another page](./additional-information.md).
+
 
 # Schedule
 
@@ -52,13 +62,8 @@ Phd holder talk: 40 minutes
 ```
 
 ### Day 3. (Sunday Jul 20, 2025)
-![test-image](./images/test.jpeg)
-
 
 Research discussions
 
 
-![test-image](https://github.com/max-hill/applied-algebra-day-2025/blob/main/images/test.jpeg)
 
-
-[Link to another page](./additional-information.md).
