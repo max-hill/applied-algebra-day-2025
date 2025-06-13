@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Additional information"
 permalink: /URL/PATH
+---
 
 
 July 18
