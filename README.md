@@ -1,4 +1,7 @@
-theme: jekyll-theme-slate
+theme: minima
+
+<!-- theme: jekyll-theme-slate -->
+
 
 
 # applied-algebra-day-2025
