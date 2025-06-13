@@ -6,7 +6,7 @@ This page is under construction
 
 
 
-**Organizers:** ![Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and ![Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
+**Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
 
 
 **Location:** University of Wisconsin-Madison
@@ -36,12 +36,6 @@ Talks
 | 2:25-3:05   | Phd                       |     -       |
 | 3:10-4:10   | Two students or one other |       -     |
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 
 ```
