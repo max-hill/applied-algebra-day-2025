@@ -6,14 +6,17 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Conference Shedule
+title: Main Page
 ---
+
+# Information
 
 - **Date:** July 18-20, 2025
 - **Location:** Van Vleck Hall, University of Wisconsin-Madison
 - **Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
 - [**Titles and Abstracts**](./titles-and-abstracts.md).
 
+## Conference Schedule
 
 ### Day 1. Participants Arrive (Friday, July 18)
 
