@@ -52,10 +52,13 @@ Phd holder talk: 40 minutes
 ```
 
 ### Day 3. (Sunday Jul 20, 2025)
+![test-image](./images/test.jpeg)
+
 
 Research discussions
 
-![test-image](https://github.githubassets.com/images/test.jpeg)
+
+![test-image](https://github.com/max-hill/applied-algebra-day-2025/blob/main/images/test.jpeg)
 
 
 [Link to another page](./additional-information.md).
