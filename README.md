@@ -1,18 +1,16 @@
-theme: jekyll-theme-slate
+July 18-20, 2025
 
+# Location
 
-
-
-# Applied Algebra Day 2025
-Applied Algebra Day 2025 at UW Madison
-
-Dates: July 18-20, 2025
+University of Wisconsin-Madison
 
 # Schedule
 
-Friday Jul 18, 2025 
+## Day 1. (Friday Jul 18, 2025)
 
-Saturday Jul 19, 2025 (Talks)
+## Day 2. (Saturday Jul 19, 2025)
+
+Talks
 
 ```
 9:00-9:30  (student)
@@ -31,5 +29,7 @@ Grad student talk: 30 minutes (e.g., 25 talk + 5 min question)
 Phd holder talk: 40 minutes
 ```
 
-Sunday Jul 20, 2025 (Research discussions)
+## Day 3. (Sunday Jul 20, 2025)
+
+Research discussions
 
