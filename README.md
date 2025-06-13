@@ -1,7 +1,3 @@
----
-layout: home
----
-
 # Information
 
 - **Location:** Van Vleck Hall @ UW Madison
