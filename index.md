@@ -19,7 +19,7 @@ title: Information
 
 Participants arrive in Madison
 
-## Day 2. (Saturday Jul 19, 2025)
+## Day 2. (Saturday, July 19)
 
 Talks schedule:
   
@@ -41,7 +41,7 @@ For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
 Grad student talks are 30 minutes (25 min talk + 5 min question)
 Phd holder talks are 40 minutes (35 min talk + 5 min questions)
 
-## Day 3. Sunday Jul 20, 2025
+## Day 3. (Sunday, July 20)
 
 Research discussions
 
