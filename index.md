@@ -27,16 +27,16 @@ Talks schedule:
   
  time        | event                     | description 
 -------------|---------------------------|-------------
- 9:00-9:30   | BF talk                   | physics       
- 9:30-10:00  | ?? talk                   |             
+ 9:00-9:30   | Talk - Bella Finkel       | physics       
+ 9:30-10:00  | Talk - tbd                |             
  10:00-10:15 | Break                     |      -      
- 10:15-10:55 | Ph.d. talk tbd            |      -      
- 10:55-11:35 | DD talk                   |      causality      
- 11:35-12:45 | (Pizza delivery?)         |      -      
- 12:45-1:25  | MV talk?                  |      game theory      
+ 10:15-10:55 | Talk - tbd                |      -      
+ 10:55-11:35 | Talk - Danai Deligeorgaki |      causality      
+ 11:35-12:45 | (Pizza delivery)          |      -      
+ 12:45-1:25  | Talk - MV                 |      game theory      
  1:25-2:05   |                   -       |      -      
  2:05-2:25   | Break                     |      -      
- 2:25-3:05   | MH talk                   |     phylogenetics       
+ 2:25-3:05   | Talk - Max Hill           |     phylogenetics       
  3:10-4:10   | Two students or one other |       -     
 
 - For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
