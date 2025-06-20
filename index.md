@@ -13,6 +13,8 @@ title: Information
 - **Location:** Van Vleck Hall, University of Wisconsin-Madison
 - **Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
 
+Talks for this event will encompass both those in which algebra is used to tackle applied problems and provide new understanding, as well as talks where an area of application is laid out that may be amenable to algebraic methods. 
+
 # Schedule
 
 ## Day 1. (Friday, July 18)
