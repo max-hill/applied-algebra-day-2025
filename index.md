@@ -29,7 +29,7 @@ Talks schedule:
  9:30-10:00  | ?? talk                   |             
  10:00-10:15 | Break                     |      -      
  10:15-10:55 | Ph.d. talk tbd            |      -      
- 10:55-11:35 | DD talk                   |      causaility      
+ 10:55-11:35 | DD talk                   |      causality      
  11:35-12:45 | (Pizza delivery?)         |      -      
  12:45-1:25  | MV talk?                  |      game theory      
  1:25-2:05   |                   -       |      -      
