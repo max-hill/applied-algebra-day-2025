@@ -10,7 +10,7 @@ title: Information
 ---
 
 - **Dates:** July 18-20, 2025
-- **Location:**  Room 911, Van Vleck Hall, University of Wisconsin-Madison
+- **Location:** Van Vleck Hall (room 911) at the University of Wisconsin-Madison
 - **Organizers:** [Jose Israel Rodriguez](https://sites.google.com/wisc.edu/jose/home)  (UW Madison) and [Max Hill](https://sites.google.com/view/max-hill/)  (UH Manoa)
 
 This event aims to include both talks in which algebra is used to tackle applied problems and provide new understanding, as well as talks in which an area of application is laid out that may be amenable to algebraic methods. 
