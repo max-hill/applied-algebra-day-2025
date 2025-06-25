@@ -25,18 +25,18 @@ Participants arrive in Madison
 
 Talks schedule:
   
- time        | event                     | description 
--------------|---------------------------|-------------
- 9:30-10:00  | Talk - Bella Finkel       | physics       
- 10:00-10:15 | Break                     |      -      
- 10:15-10:55 | Talk - tbd                |      -      
- 10:55-11:35 | Talk - Danai Deligeorgaki |      causality      
- 11:35-12:45 | (Pizza delivery)          |      -      
- 12:45-1:25  | Talk - MV                 |      game theory      
- 1:25-2:05   |                   -       |      -      
- 2:05-2:25   | Break                     |      -      
- 2:25-3:05   | Talk - Max Hill           |     phylogenetics       
- 3:10-4:10   | Two students or one other |       -     
+ time        | event                      | description 
+-------------|----------------------------|-------------
+ 9:30-10:00  | Talk - Bella Finkel        |      physics       
+ 10:00-10:15 | Break                      |      -      
+ 10:15-10:55 | Talk - tbd                 |      -      
+ 10:55-11:35 | Talk - Danai Deligeorgaki  |      causality      
+ 11:35-12:45 | (Pizza delivery)           |      -      
+ 12:45-1:25  | Talk - MV                  |      game theory      
+ 1:25-2:05   |                   -        |      -      
+ 2:05-2:25   | Break                      |      -      
+ 2:25-3:05   | Talk - Max Hill            |      phylogenetics       
+ 3:10-4:10   | Talk - Claudia Solis-Lemus |      -     
 
 - For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
 - Grad student talks are 30 minutes (25 min talk + 5 min question)
