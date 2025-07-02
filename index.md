@@ -36,7 +36,7 @@ Talks schedule:
  1:25-2:05   |                   -        |      -      
  2:05-2:25   | Break                      |      -      
  2:25-3:05   | Talk - Max Hill            |      phylogenetics       
- 3:10-4:10   | Talk - Claudia Solis-Lemus |      -     
+ 3:10-4:10   | Talk - Claudia Solis-Lemus |      phylogenetics     
 
 - For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
 - Grad student talks are 30 minutes (25 min talk + 5 min question)
