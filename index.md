@@ -27,9 +27,7 @@ Talks schedule:
   
  time        | event                      | description 
 -------------|----------------------------|-------------
- 9:30-10:00  | Talk - Bella Finkel        |      physics       
- 10:00-10:15 | Break                      |      -      
- 10:15-10:55 | Talk - tbd                 |      -      
+ 10:15-10:55 | Talk - Bella Finkel        |      physics       
  10:55-11:35 | Talk - Danai Deligeorgaki  |      causality      
  11:35-12:45 | (Pizza delivery)           |      -      
  12:45-1:25  | Talk - MV                  |      game theory      
