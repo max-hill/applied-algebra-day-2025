@@ -5,7 +5,9 @@ permalink: /titles-and-abstracts/
 ---
 
 # Max Hill
+**Title:** Semialgebraic Hypothesis Testing with Incomplete U-Statistics: A Case Study with Biologically-Motivated Models
 
+**Abstract:** 
 TBD
 
 
