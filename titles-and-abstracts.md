@@ -7,8 +7,9 @@ permalink: /titles-and-abstracts/
 # Max Hill
 **Title:** Semialgebraic Hypothesis Testing with Incomplete U-Statistics: A Case Study with Biologically-Motivated Models
 
-**Abstract:** 
-TBD
+**Abstract:** Recently, Sturma, Drton, and Leung (2024) introduced a general stochastic test for semialgebraic statistical models---that is, models defined by polynomial equality and inequality constraints. One remarkable feature of their method is that it remains valid even near pathological points such as singularities and model boundaries, as such points pose challenges for traditional testing methodologies. In this talk, I'll discuss recent work implementing this method and applying it to a number of biologically-motivated models from phylogenetics. While we found the method capable of matching performance of traditional deterministic tests, a number of surprising methodological challenges arose along the way.
+
+This talk is based on joint work with Dave Barnhill, Marina Garrote-López, Elizabeth Gross, Bryson Kagy, John Rhodes, and Joy Zhang.
 
 
 # Claudia Solis-Lemus
