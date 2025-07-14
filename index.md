@@ -23,18 +23,15 @@ Participants arrive in Madison
 
 ## Day 2. (Saturday, July 19)
 
-Talks schedule:
+Talks schedule (subject to change):
   
  time        | event                      | description 
 -------------|----------------------------|-------------
  10:15-10:55 | Talk - Bella Finkel        |      physics       
  10:55-11:35 | Talk - Danai Deligeorgaki  |      causality      
- 11:35-12:45 | (Pizza delivery)           |      -      
- 12:45-1:25  | Talk - MV                  |      game theory      
- 1:25-2:05   |                   -        |      -      
- 2:05-2:25   | Break                      |      -      
- 2:25-3:05   | Talk - Max Hill            |      phylogenetics       
- 3:10-4:10   | Talk - Claudia Solis-Lemus |      phylogenetics     
+ 11:35-1:00 | (Pizza delivery)           |      -      
+ 1:00-2:40  | Talk - Max Hill                  |      Phylogenetics
+ 3:00-3:40   | Talk - Claudia Solis-Lemus |      phylogenetics     
 
 - For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
 - Grad student talks are 30 minutes (25 min talk + 5 min question)
