@@ -30,12 +30,11 @@ Talks schedule (subject to change):
  10:15-10:55 | Talk - Bella Finkel        |      physics       
  10:55-11:35 | Talk - Danai Deligeorgaki  |      causality      
  11:35-2:00 | (Pizza delivery)           |      -      
- 2:00-2:40  | Talk - Max Hill                  |      Phylogenetics
- 3:00-3:40   | Talk - Claudia Solis-Lemus |      phylogenetics     
+ 2:00-2:40  | Talk - Max Hill                  |      phylogenetics
+ 2:40-3:20   | Talk - Claudia Solis-Lemus |      phylogenetics     
 
 - For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
-- Grad student talks are 30 minutes (25 min talk + 5 min question)
-- Phd holder talks are 40 minutes (35 min talk + 5 min questions)
+- Talks are 40 minutes (35 min talk + 5 min questions)
 
 ## Day 3. (Sunday, July 20)
 
