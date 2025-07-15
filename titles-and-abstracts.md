@@ -12,6 +12,12 @@ permalink: /titles-and-abstracts/
    
 Based on ongoing work with Barbara Betti, Viktoriia Borovik, Bernd Sturmfels and Bailee Zacovic.
 
+# Danai Deligeorgaki
+
+**Title:** TBA
+
+**Abstract:**: TBA
+
 # Max Hill
 
 **Title:** Semialgebraic Hypothesis Testing with Incomplete U-Statistics: A Case Study with Biologically-Motivated Models
