@@ -4,7 +4,16 @@ title: Titles and Abstracts
 permalink: /titles-and-abstracts/
 ---
 
+# Bella Finkel
+
+**Title:** Scattering Hypertrees
+
+**Abstract:** Hypertrees are combinatorial structures that serve as data for reduced MHV on-shell diagrams in N=4 super Yang Mills theory and hypergraphs that parametrize exceptional divisors on the Grothendieck-Knudsen moduli space of stable rational curves. The former description inspires the association of the maximum likelihood degree of a scattering potential on $\mathcal{M}_{0,n}$ to hypertrees in particular and to $n$-vertex graphs in general. We will discuss a new construction for an infinite family of hypertrees with compelling geometric and physical interpretations of the maximum likelihood degree.
+   
+Based on ongoing work with Barbara Betti, Viktoriia Borovik, Bernd Sturmfels and Bailee Zacovic.
+
 # Max Hill
+
 **Title:** Semialgebraic Hypothesis Testing with Incomplete U-Statistics: A Case Study with Biologically-Motivated Models
 
 **Abstract:** Recently, Sturma, Drton, and Leung (2024) introduced a general stochastic test for semialgebraic statistical models---that is, models defined by polynomial equality and inequality constraints. One remarkable feature of their method is that it remains valid even near pathological points such as singularities and model boundaries, as such points pose challenges for traditional testing methodologies. In this talk, I'll discuss recent work implementing this method and applying it to a number of biologically-motivated models from phylogenetics. While we found the method capable of matching performance of traditional deterministic tests, a number of surprising methodological challenges arose along the way.
