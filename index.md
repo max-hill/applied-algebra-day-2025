@@ -31,8 +31,8 @@ Talks schedule (subject to change):
  10:55-11:35 | Talk - Danai Deligeorgaki  |      causality      
  11:35-1:35| (Pizza delivery)           |      -      
  1:35-2:15  | Talk - Max Hill                  |      phylogenetics
- 2:15-3:55   | Talk - Claudia Solis-Lemus |      phylogenetics   
- 3:55-4:00 | Closing remarks | 
+ 2:15-2:55   | Talk - Claudia Solis-Lemus |      phylogenetics   
+ 2:55-3:00 | Closing remarks | 
  
 
 - For titles and abstracts, see [Titles and Abstracts](./titles-and-abstracts.md).
