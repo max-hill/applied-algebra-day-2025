@@ -30,7 +30,7 @@ Talks schedule (subject to change):
  10:15-10:55 | Talk - Bella Finkel        |      physics       
  10:55-11:35 | Talk - Danai Deligeorgaki  |      causality      
  11:35-1:35| (Pizza delivery)           |      -      
- 1:35-2:15  | Talk - Max Hill                  |      phylogenetics
+ 1:35-2:15  | Talk - Max Hill                  |      hypothesis testing
  2:20-3:00   | Talk - Claudia Solis-Lemus |      phylogenetics   
  3:00-3:05 | Closing remarks | 
  
