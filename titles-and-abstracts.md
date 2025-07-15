@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: latex
 title: Titles and Abstracts
 permalink: /titles-and-abstracts/
 ---
