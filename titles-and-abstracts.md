@@ -14,9 +14,9 @@ Based on ongoing work with Barbara Betti, Viktoriia Borovik, Bernd Sturmfels and
 
 # Danai Deligeorgaki
 
-**Title:** TBA
+**Title:** How to DAG Your Model: Where Algebra Meets Causality in the Margins
 
-**Abstract:**: TBA
+**Abstract:**: A DAG model (or Bayesian network) is a graphical model representing causal or dependency relationships between variables via a directed acyclic graph. In this talk, we focus on estimating the structure of a DAG model from observational data. Conditional independence statements among variables impose structural constraints on the DAG. In joint work with Alex Markham, Pratik Misra, and Liam Solus, we study classes of DAGs that share the same unconditional independence structure and characterize how these DAGs relate and transform within and across such classes. By constructing a Gröbner basis for a related toric ideal, we define a set of moves that connect different equivalence classes of DAGs. These tools lead to GrUES (Gröbner-based Unconditional Equivalence Search), an MCMC algorithm for estimating the marginal independence structure of a causal system. Empirically, GrUES outperforms standard independence tests, yielding more accurate BIC-optimal or MAP estimates along with posterior information.
 
 # Max Hill
 
